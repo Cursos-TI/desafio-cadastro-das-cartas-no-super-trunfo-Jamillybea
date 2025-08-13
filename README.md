@@ -9,8 +9,8 @@ CIDADE,
 POPULAÇÃO,
 ÁREA,
 PIB,
-DENSIDADE POPULACIONAL (CALCULADO AUTOMATICAMENTE E VENCE QUEM TIVER MENOR VALOR),
-PIB PER CAPITAL(PIB DIVIDIDO PELA POPULAÇÃO),
-SUPER PODER (SOMA TODOS OS REQUISITOS ACIMA),
+DENSIDADE POPULACIONAL (Calculado automaticamente e vence quem tiver menor valor),
+PIB PER CAPITAL (PIB dividido pela População),
+SUPER PODER (Soma todos os requisitos acima).
 
 **Existe comentarios no código explicado determinadas funções, achei que seria necessario**
